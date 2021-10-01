@@ -12,3 +12,5 @@ console.log('API is running on http://localhost:8080');
 module.exports = app;
 ```
 
+##Request API
+`http://localhost:8080/?rank=1`
